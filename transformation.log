@@ -1,0 +1,438 @@
+[28/May/2020 18:57:46 Europe/Stockholm] [Info] ############################################################
+[28/May/2020 18:57:46 Europe/Stockholm] [Info] # Output Factory initiated (html5)
+[28/May/2020 18:57:46 Europe/Stockholm] [Info] # Building output for: Style Guide
+[28/May/2020 18:57:46 Europe/Stockholm] [Info] # URL /document/edit/439
+[28/May/2020 18:57:46 Europe/Stockholm] [Info] # User: Greg Pfister
+[28/May/2020 18:57:46 Europe/Stockholm] [Info] # Time: Thu, 28 May 2020 18:57:46 +0200
+[28/May/2020 18:57:46 Europe/Stockholm] [Info] # Server: aberdeen
+[28/May/2020 18:57:46 Europe/Stockholm] [Info] ############################################################
+[28/May/2020 18:57:46 Europe/Stockholm] [Info] Group: custom
+[28/May/2020 18:57:46 Europe/Stockholm] [Info] Type: html5
+[28/May/2020 18:57:46 Europe/Stockholm] [Info] Transformation: /var/www/ccms/usr/northwestern/xsl/custom/layout-685.xsl
+[28/May/2020 18:57:46 Europe/Stockholm] [Info] File found: /var/www/ccms/usr/northwestern/xsl/custom/layout-685.xsl
+[28/May/2020 18:57:46 Europe/Stockholm] [Info] ############################################################
+[28/May/2020 18:57:46 Europe/Stockholm] [Info] Building output for: html5
+[28/May/2020 18:57:46 Europe/Stockholm] [Info] Using stylesheet: /var/www/ccms/usr/northwestern/xsl/custom/layout-685.xsl
+[28/May/2020 18:57:46 Europe/Stockholm] [Info] Parameters for this build: (array) []
+[28/May/2020 18:57:46 Europe/Stockholm] [Info] Environment variables for this build: (array) []
+[28/May/2020 18:57:46 Europe/Stockholm] [Info] Building output for languages: (array) ["en"]
+[28/May/2020 18:57:46 Europe/Stockholm] [Info] Building multilang: no
+[28/May/2020 18:57:46 Europe/Stockholm] [Info] Building preview: no
+[28/May/2020 18:57:46 Europe/Stockholm] [Info] ############################################################
+[28/May/2020 18:57:46 Europe/Stockholm] [Info] Using build directory: /paligo/tmp/northwestern/production-5ecfed89264410.15966759/439-Style_Guide-html5
+[28/May/2020 18:57:47 Europe/Stockholm] [Info] -- Generating source files
+[28/May/2020 18:57:47 Europe/Stockholm] [Info] -- Source files have been generated
+[28/May/2020 18:57:47 Europe/Stockholm] [Info] -- Publication has no unresolved dependencies.
+[28/May/2020 18:57:47 Europe/Stockholm] [Info] -- Generating source files complete.
+[28/May/2020 18:57:48 Europe/Stockholm] [Info] Variable sets found: 0
+[28/May/2020 18:57:48 Europe/Stockholm] [Info] Localizing: publication-439.xml
+[28/May/2020 18:57:48 Europe/Stockholm] [Info] Language: en
+[28/May/2020 18:57:50 Europe/Stockholm] [Info] Inserting image links.
+[28/May/2020 18:57:50 Europe/Stockholm] [Info] Found 1 image(s).
+[28/May/2020 18:57:50 Europe/Stockholm] [Info] Found image 'person-02.jpg'
+[28/May/2020 18:57:50 Europe/Stockholm] [Info] Profiling parameters: (array) []
+[28/May/2020 18:57:50 Europe/Stockholm] [Info] Profiling customisation: /var/www/ccms/usr/northwestern/xsl/profile.xsl (not found)
+[28/May/2020 18:57:50 Europe/Stockholm] [Info] Transformation: publication-439--en.org.xml -> publication-439--en.xml [profile.xsl]
+[28/May/2020 18:57:50 Europe/Stockholm] [Info] Transformation: publication-439--en.xml -> publication-439--en.xml [internal-xref.xsl]
+[28/May/2020 18:57:51 Europe/Stockholm] [Info] Transformation: A-filelist.xml -> B-sorted.xml [IO.document.sortlang.xsl]
+[28/May/2020 18:57:51 Europe/Stockholm] [Info] Transformation: B-sorted.xml -> C-concatenated.xml [IO.document.concat.xsl]
+[28/May/2020 18:57:51 Europe/Stockholm] [Info] Transformation: B-sorted.xml -> index-en.xml [IO.document.head.xsl]
+[28/May/2020 18:57:51 Europe/Stockholm] [Info] Created copy: /var/www/ccms/usr/northwestern/xsl/custom/layout-685.xsl -> /var/www/ccms/usr/northwestern/xsl/custom/5ecfed8f7c891.xsl
+[28/May/2020 18:57:51 Europe/Stockholm] [Info] Created symlink: /var/www/ccms/application/lib/docbook/xsl/html5/html5.algolia.xsl -> /var/www/ccms/usr/northwestern/xsl/custom/5ecfed8f7c891.algolia.xsl
+[28/May/2020 18:57:51 Europe/Stockholm] [Info] Created symlink: /var/www/ccms/application/lib/docbook/xsl/html5/html5.fuse.search.xsl -> /var/www/ccms/usr/northwestern/xsl/custom/5ecfed8f7c891.fuse.search.xsl
+[28/May/2020 18:57:51 Europe/Stockholm] [Info] Created symlink: /var/www/ccms/application/lib/docbook/xsl/html5/html5.index.xsl -> /var/www/ccms/usr/northwestern/xsl/custom/5ecfed8f7c891.index.xsl
+[28/May/2020 18:57:51 Europe/Stockholm] [Info] Created symlink: /var/www/ccms/application/lib/docbook/xsl/html5/html5.lunr.xsl -> /var/www/ccms/usr/northwestern/xsl/custom/5ecfed8f7c891.lunr.xsl
+[28/May/2020 18:57:51 Europe/Stockholm] [Info] Created symlink: /var/www/ccms/application/lib/docbook/xsl/html5/html5.page.xsl -> /var/www/ccms/usr/northwestern/xsl/custom/5ecfed8f7c891.page.xsl
+[28/May/2020 18:57:51 Europe/Stockholm] [Info] Created symlink: /var/www/ccms/application/lib/docbook/xsl/html5/html5.param.xsl -> /var/www/ccms/usr/northwestern/xsl/custom/5ecfed8f7c891.param.xsl
+[28/May/2020 18:57:51 Europe/Stockholm] [Info] Created symlink: /var/www/ccms/application/lib/docbook/xsl/html5/html5.toc.xsl -> /var/www/ccms/usr/northwestern/xsl/custom/5ecfed8f7c891.toc.xsl
+[28-May-2020 18:57:52 Europe/Stockholm] Parsing manifest file: css/*, css/image/*, css/image/callouts/*, js/*, fonts/*
+[28-May-2020 18:57:52 Europe/Stockholm] Filename: css/*
+[28-May-2020 18:57:52 Europe/Stockholm] Source directory: /var/www/ccms/application/lib/docbook/xsl/html5
+[28-May-2020 18:57:52 Europe/Stockholm] Target directory: /paligo/tmp/northwestern/production-5ecfed89264410.15966759/439-Style_Guide-html5/out
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'bootstrap-3.0.2.min.css'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'bootstrap-theme-3.0.2.min.css'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'bootstrap-theme.min.css'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'bootstrap-theme.min.css.map'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'bootstrap.min.css'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'bootstrap.min.css.map'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'content-theme1.css'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'content-theme2.css'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'docbook.css'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'font-awesome.css'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'graphical-lists.css'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'html5.algoliasearch.css'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'html5.algoliasearchpage.css'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'mathml.css'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'rwd-table.min.css'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'sm-core-css.css'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'sm-simple.css'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'style-api-responsive.css'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'style-api.css'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'style-common.css'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'style-index-page.css'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'style-modern-tables.css'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'style-print.css'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'style-responsive.css'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'style-single-page.css'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'style.css'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'theme0.css'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'theme1-colors.css'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'theme1.css'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'theme2-colors.css'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'theme2.css'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'theme3-colors.css'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'theme3.css'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'theme3b-colors.css'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'theme3b.css'
+[28-May-2020 18:57:52 Europe/Stockholm] Filename: css/image/*
+[28-May-2020 18:57:52 Europe/Stockholm] Source directory: /var/www/ccms/application/lib/docbook/xsl/html5
+[28-May-2020 18:57:52 Europe/Stockholm] Target directory: /paligo/tmp/northwestern/production-5ecfed89264410.15966759/439-Style_Guide-html5/out
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'breadcrumb-seperator.png'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'caution.png'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'corporate-logo-blue-inverted.svg'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'corporate-logo-blue.svg'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'corporate-logo-white.png'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'corporate-logo-white.svg'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'corporate-logo.png'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'corporate-logo.svg'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'important.png'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'note.png'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'portal1-bg.jpg'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'portal2a-bg.jpg'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'portal2b-bg.jpg'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'portal2c-bg.jpg'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'subheader-bg.png'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'warning.png'
+[28-May-2020 18:57:52 Europe/Stockholm] Filename: css/image/callouts/*
+[28-May-2020 18:57:52 Europe/Stockholm] Source directory: /var/www/ccms/application/lib/docbook/xsl/html5
+[28-May-2020 18:57:52 Europe/Stockholm] Target directory: /paligo/tmp/northwestern/production-5ecfed89264410.15966759/439-Style_Guide-html5/out
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file '1.gif'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file '1.png'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file '1.svg'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file '10.gif'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file '10.png'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file '10.svg'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file '11.gif'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file '11.png'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file '11.svg'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file '12.gif'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file '12.png'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file '12.svg'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file '13.gif'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file '13.png'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file '13.svg'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file '14.gif'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file '14.png'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file '14.svg'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file '15.gif'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file '15.png'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file '15.svg'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file '16.svg'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file '17.svg'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file '18.svg'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file '19.svg'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file '2.gif'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file '2.png'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file '2.svg'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file '20.svg'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file '21.svg'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file '22.svg'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file '23.svg'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file '24.svg'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file '25.svg'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file '26.svg'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file '27.svg'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file '28.svg'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file '29.svg'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file '3.gif'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file '3.png'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file '3.svg'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file '30.svg'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file '4.gif'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file '4.png'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file '4.svg'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file '5.gif'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file '5.png'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file '5.svg'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file '6.gif'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file '6.png'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file '6.svg'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file '7.gif'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file '7.png'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file '7.svg'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file '8.gif'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file '8.png'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file '8.svg'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file '9.gif'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file '9.png'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file '9.svg'
+[28-May-2020 18:57:52 Europe/Stockholm] Filename: js/*
+[28-May-2020 18:57:52 Europe/Stockholm] Source directory: /var/www/ccms/application/lib/docbook/xsl/html5
+[28-May-2020 18:57:52 Europe/Stockholm] Target directory: /paligo/tmp/northwestern/production-5ecfed89264410.15966759/439-Style_Guide-html5/out
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'ajax-loading.js'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'anchorlinks.js'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'bootstrap.min.js'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'checklist.js'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'clipboard.min.js'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'cookie-consent.js'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'create-toc.js'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'csh.js'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'fuse.min.js'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'hilitor.js'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'html5-2-ajax-hp.js'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'html5-2-ajax.js'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'html5-2-mp-common.js'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'html5-2-portal.js'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'html5-2.js'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'html5.algoliasearch.js'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'html5.algoliasearchpage.js'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'html5.fuse.search.js'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'jquery-1.10.2.min.js'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'jquery-1.10.2.min.map'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'jquery-migrate-3.0.1.min.js'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'jquery-ui-1.10.3.custom.min.js'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'jquery.event.move.js'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'jquery.event.swipe.js'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'jquery.mark.min.js'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'jquery.smartmenus.js'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'jquery.sticky.js'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'lunr-single-lang.js'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'lunr.js'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'materialize.min.js'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'mspace.js'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'purl.js'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'respond.min.js'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'responsive-tables.js'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'rwd-table.min.js'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'script-api.js'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'script.js'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'search.js'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'updateurl.js'
+[28-May-2020 18:57:52 Europe/Stockholm] Filename: fonts/*
+[28-May-2020 18:57:52 Europe/Stockholm] Source directory: /var/www/ccms/application/lib/docbook/xsl/html5
+[28-May-2020 18:57:52 Europe/Stockholm] Target directory: /paligo/tmp/northwestern/production-5ecfed89264410.15966759/439-Style_Guide-html5/out
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'FontAwesome.otf'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'fontawesome-webfont.eot'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'fontawesome-webfont.svg'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'fontawesome-webfont.ttf'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'fontawesome-webfont.woff'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'fontawesome-webfont.woff2'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'glyphicons-halflings-regular.eot'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'glyphicons-halflings-regular.svg'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'glyphicons-halflings-regular.ttf'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'glyphicons-halflings-regular.woff'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'glyphicons-halflings-regular.woff2'
+[28-May-2020 18:57:52 Europe/Stockholm] Parsing manifest file: css/*, css/image/*, css/image/callouts/*, js/*, fonts/*
+[28-May-2020 18:57:52 Europe/Stockholm] Filename: css/*
+[28-May-2020 18:57:52 Europe/Stockholm] Source directory: /var/www/ccms/application/lib/docbook/xsl/html5
+[28-May-2020 18:57:52 Europe/Stockholm] Target directory: /paligo/tmp/northwestern/production-5ecfed89264410.15966759/439-Style_Guide-html5/out
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'bootstrap-3.0.2.min.css'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'bootstrap-theme-3.0.2.min.css'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'bootstrap-theme.min.css'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'bootstrap-theme.min.css.map'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'bootstrap.min.css'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'bootstrap.min.css.map'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'content-theme1.css'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'content-theme2.css'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'docbook.css'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'font-awesome.css'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'graphical-lists.css'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'html5.algoliasearch.css'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'html5.algoliasearchpage.css'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'mathml.css'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'rwd-table.min.css'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'sm-core-css.css'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'sm-simple.css'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'style-api-responsive.css'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'style-api.css'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'style-common.css'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'style-index-page.css'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'style-modern-tables.css'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'style-print.css'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'style-responsive.css'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'style-single-page.css'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'style.css'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'theme0.css'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'theme1-colors.css'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'theme1.css'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'theme2-colors.css'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'theme2.css'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'theme3-colors.css'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'theme3.css'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'theme3b-colors.css'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'theme3b.css'
+[28-May-2020 18:57:52 Europe/Stockholm] Filename: css/image/*
+[28-May-2020 18:57:52 Europe/Stockholm] Source directory: /var/www/ccms/application/lib/docbook/xsl/html5
+[28-May-2020 18:57:52 Europe/Stockholm] Target directory: /paligo/tmp/northwestern/production-5ecfed89264410.15966759/439-Style_Guide-html5/out
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'breadcrumb-seperator.png'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'caution.png'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'corporate-logo-blue-inverted.svg'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'corporate-logo-blue.svg'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'corporate-logo-white.png'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'corporate-logo-white.svg'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'corporate-logo.png'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'corporate-logo.svg'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'important.png'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'note.png'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'portal1-bg.jpg'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'portal2a-bg.jpg'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'portal2b-bg.jpg'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'portal2c-bg.jpg'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'subheader-bg.png'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'warning.png'
+[28-May-2020 18:57:52 Europe/Stockholm] Filename: css/image/callouts/*
+[28-May-2020 18:57:52 Europe/Stockholm] Source directory: /var/www/ccms/application/lib/docbook/xsl/html5
+[28-May-2020 18:57:52 Europe/Stockholm] Target directory: /paligo/tmp/northwestern/production-5ecfed89264410.15966759/439-Style_Guide-html5/out
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file '1.gif'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file '1.png'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file '1.svg'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file '10.gif'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file '10.png'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file '10.svg'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file '11.gif'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file '11.png'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file '11.svg'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file '12.gif'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file '12.png'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file '12.svg'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file '13.gif'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file '13.png'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file '13.svg'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file '14.gif'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file '14.png'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file '14.svg'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file '15.gif'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file '15.png'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file '15.svg'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file '16.svg'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file '17.svg'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file '18.svg'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file '19.svg'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file '2.gif'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file '2.png'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file '2.svg'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file '20.svg'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file '21.svg'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file '22.svg'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file '23.svg'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file '24.svg'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file '25.svg'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file '26.svg'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file '27.svg'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file '28.svg'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file '29.svg'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file '3.gif'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file '3.png'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file '3.svg'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file '30.svg'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file '4.gif'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file '4.png'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file '4.svg'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file '5.gif'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file '5.png'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file '5.svg'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file '6.gif'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file '6.png'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file '6.svg'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file '7.gif'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file '7.png'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file '7.svg'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file '8.gif'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file '8.png'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file '8.svg'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file '9.gif'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file '9.png'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file '9.svg'
+[28-May-2020 18:57:52 Europe/Stockholm] Filename: js/*
+[28-May-2020 18:57:52 Europe/Stockholm] Source directory: /var/www/ccms/application/lib/docbook/xsl/html5
+[28-May-2020 18:57:52 Europe/Stockholm] Target directory: /paligo/tmp/northwestern/production-5ecfed89264410.15966759/439-Style_Guide-html5/out
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'ajax-loading.js'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'anchorlinks.js'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'bootstrap.min.js'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'checklist.js'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'clipboard.min.js'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'cookie-consent.js'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'create-toc.js'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'csh.js'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'fuse.min.js'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'hilitor.js'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'html5-2-ajax-hp.js'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'html5-2-ajax.js'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'html5-2-mp-common.js'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'html5-2-portal.js'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'html5-2.js'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'html5.algoliasearch.js'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'html5.algoliasearchpage.js'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'html5.fuse.search.js'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'jquery-1.10.2.min.js'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'jquery-1.10.2.min.map'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'jquery-migrate-3.0.1.min.js'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'jquery-ui-1.10.3.custom.min.js'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'jquery.event.move.js'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'jquery.event.swipe.js'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'jquery.mark.min.js'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'jquery.smartmenus.js'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'jquery.sticky.js'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'lunr-single-lang.js'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'lunr.js'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'materialize.min.js'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'mspace.js'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'purl.js'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'respond.min.js'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'responsive-tables.js'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'rwd-table.min.js'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'script-api.js'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'script.js'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'search.js'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'updateurl.js'
+[28-May-2020 18:57:52 Europe/Stockholm] Filename: fonts/*
+[28-May-2020 18:57:52 Europe/Stockholm] Source directory: /var/www/ccms/application/lib/docbook/xsl/html5
+[28-May-2020 18:57:52 Europe/Stockholm] Target directory: /paligo/tmp/northwestern/production-5ecfed89264410.15966759/439-Style_Guide-html5/out
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'FontAwesome.otf'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'fontawesome-webfont.eot'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'fontawesome-webfont.svg'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'fontawesome-webfont.ttf'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'fontawesome-webfont.woff'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'fontawesome-webfont.woff2'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'glyphicons-halflings-regular.eot'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'glyphicons-halflings-regular.svg'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'glyphicons-halflings-regular.ttf'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'glyphicons-halflings-regular.woff'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file 'glyphicons-halflings-regular.woff2'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file '/var/www/ccms/usr/northwestern/xsl/custom/assets/layout-685/5e3b2f993f275.jpg' to '/paligo/tmp/northwestern/production-5ecfed89264410.15966759/439-Style_Guide-html5/out/css/image/corporate-logo.jpg'
+[28-May-2020 18:57:52 Europe/Stockholm] Copy file '/var/www/ccms/usr/northwestern/xsl/custom/assets/layout-685/5e3b2f9f64915.jpg' to '/paligo/tmp/northwestern/production-5ecfed89264410.15966759/439-Style_Guide-html5/out/css/image/portal-logo.jpg'
+[28-May-2020 18:57:53 Europe/Stockholm] Post build HTML5
+[28/May/2020 18:57:53 Europe/Stockholm] [Info] Transformation: index-en.html -> toc-en.html [5ecfed8f7c891.toc.xsl]
+[28/May/2020 18:57:53 Europe/Stockholm] [Info] Transformation: UUID-d12d71ad-ebce-377f-8c29-aa1b25a97cf5.html -> UUID-d12d71ad-ebce-377f-8c29-aa1b25a97cf5.html [5ecfed8f7c891.page.xsl]
+[28/May/2020 18:57:53 Europe/Stockholm] [Info] Transformation: UUID-db74125f-80b9-a6c3-1703-7d38e3bedd12.html -> UUID-db74125f-80b9-a6c3-1703-7d38e3bedd12.html [5ecfed8f7c891.page.xsl]
+[28/May/2020 18:57:53 Europe/Stockholm] [Info] Transformation: UUID-0a64543d-01fe-a6c8-ebbc-47174c9bdf3d.html -> UUID-0a64543d-01fe-a6c8-ebbc-47174c9bdf3d.html [5ecfed8f7c891.page.xsl]
+[28/May/2020 18:57:53 Europe/Stockholm] [Info] Transformation: UUID-12802e7e-163f-fcc0-e181-fce67dce0a64.html -> UUID-12802e7e-163f-fcc0-e181-fce67dce0a64.html [5ecfed8f7c891.page.xsl]
+[28/May/2020 18:57:54 Europe/Stockholm] [Info] Transformation: UUID-8451aafc-f0fc-d0c5-4411-e9c7d7db85b8.html -> UUID-8451aafc-f0fc-d0c5-4411-e9c7d7db85b8.html [5ecfed8f7c891.page.xsl]
+[28/May/2020 18:57:54 Europe/Stockholm] [Info] Transformation: UUID-a5f34e97-e69d-06d6-40e5-60d16779ccc7.html -> UUID-a5f34e97-e69d-06d6-40e5-60d16779ccc7.html [5ecfed8f7c891.page.xsl]
+[28/May/2020 18:57:54 Europe/Stockholm] [Info] Transformation: UUID-99e26553-e3c9-10e7-e15c-63760ae29ce7.html -> UUID-99e26553-e3c9-10e7-e15c-63760ae29ce7.html [5ecfed8f7c891.page.xsl]
+[28/May/2020 18:57:54 Europe/Stockholm] [Info] Transformation: UUID-3187de77-cd98-53d2-2139-559d7e3e82db.html -> UUID-3187de77-cd98-53d2-2139-559d7e3e82db.html [5ecfed8f7c891.page.xsl]
+[28/May/2020 18:57:54 Europe/Stockholm] [Info] Transformation: UUID-55014ca8-d6a8-14ca-c722-13d3664317c1.html -> UUID-55014ca8-d6a8-14ca-c722-13d3664317c1.html [5ecfed8f7c891.page.xsl]
+[28/May/2020 18:57:54 Europe/Stockholm] [Info] Transformation: UUID-5ca2d404-1883-f278-6b90-90727486abd2.html -> UUID-5ca2d404-1883-f278-6b90-90727486abd2.html [5ecfed8f7c891.page.xsl]
+[28/May/2020 18:57:54 Europe/Stockholm] [Info] Transformation: UUID-395fb310-fa93-f0a0-0c6a-eed75c28e531.html -> UUID-395fb310-fa93-f0a0-0c6a-eed75c28e531.html [5ecfed8f7c891.page.xsl]
+[28/May/2020 18:57:54 Europe/Stockholm] [Info] Transformation: UUID-ac89c282-345f-3c45-f4cf-802e593e0820.html -> UUID-ac89c282-345f-3c45-f4cf-802e593e0820.html [5ecfed8f7c891.page.xsl]
+[28/May/2020 18:57:54 Europe/Stockholm] [Info] Transformation: UUID-39a28eab-1ed0-d6af-c451-69030c8e45dd.html -> UUID-39a28eab-1ed0-d6af-c451-69030c8e45dd.html [5ecfed8f7c891.page.xsl]
+[28/May/2020 18:57:54 Europe/Stockholm] [Info] Transformation: UUID-6ae950aa-ec48-99ea-b13a-b237fb71602d.html -> UUID-6ae950aa-ec48-99ea-b13a-b237fb71602d.html [5ecfed8f7c891.page.xsl]
+[28/May/2020 18:57:54 Europe/Stockholm] [Info] Transformation: UUID-ca387ca8-e3f8-1f88-cec4-b14536fe88c2.html -> UUID-ca387ca8-e3f8-1f88-cec4-b14536fe88c2.html [5ecfed8f7c891.page.xsl]
+[28/May/2020 18:57:54 Europe/Stockholm] [Info] Transformation: UUID-2a51cf34-640e-c1d1-10c8-efe02cf43b72.html -> UUID-2a51cf34-640e-c1d1-10c8-efe02cf43b72.html [5ecfed8f7c891.page.xsl]
+[28/May/2020 18:57:54 Europe/Stockholm] [Info] Transformation: UUID-a58e9b25-45ea-eb47-7210-1ed69cda3ca8.html -> UUID-a58e9b25-45ea-eb47-7210-1ed69cda3ca8.html [5ecfed8f7c891.page.xsl]
+[28/May/2020 18:57:54 Europe/Stockholm] [Info] Transformation: UUID-f9ebcaae-ea87-3b24-d975-1d9e25f1d8a4.html -> UUID-f9ebcaae-ea87-3b24-d975-1d9e25f1d8a4.html [5ecfed8f7c891.page.xsl]
+[28/May/2020 18:57:54 Europe/Stockholm] [Info] Transformation: UUID-b51f29c1-4af9-d957-d6a6-e3e249de4a70.html -> UUID-b51f29c1-4af9-d957-d6a6-e3e249de4a70.html [5ecfed8f7c891.page.xsl]
+[28/May/2020 18:57:54 Europe/Stockholm] [Info] Transformation: UUID-7df6636f-42ac-29c3-d6df-0a45d041de55.html -> UUID-7df6636f-42ac-29c3-d6df-0a45d041de55.html [5ecfed8f7c891.page.xsl]
+[28/May/2020 18:57:54 Europe/Stockholm] [Info] Transformation: UUID-fec0c3ad-029a-1397-699d-e6b6a639c195.html -> UUID-fec0c3ad-029a-1397-699d-e6b6a639c195.html [5ecfed8f7c891.page.xsl]
+[28/May/2020 18:57:54 Europe/Stockholm] [Info] Transformation: UUID-ed66f3fc-4c5e-5584-96c8-8c17e53d1b27.html -> UUID-ed66f3fc-4c5e-5584-96c8-8c17e53d1b27.html [5ecfed8f7c891.page.xsl]
+[28/May/2020 18:57:54 Europe/Stockholm] [Info] Transformation: UUID-bd051340-0893-14bc-295a-4db702d9fcc7.html -> UUID-bd051340-0893-14bc-295a-4db702d9fcc7.html [5ecfed8f7c891.page.xsl]
+[28/May/2020 18:57:54 Europe/Stockholm] [Info] Transformation: UUID-2924f08b-31d2-2d81-f517-927116962d21.html -> UUID-2924f08b-31d2-2d81-f517-927116962d21.html [5ecfed8f7c891.page.xsl]
+[28/May/2020 18:57:54 Europe/Stockholm] [Info] Transformation: UUID-8d625659-39fa-fba0-2860-c3a2acaca4c3.html -> UUID-8d625659-39fa-fba0-2860-c3a2acaca4c3.html [5ecfed8f7c891.page.xsl]
+[28/May/2020 18:57:54 Europe/Stockholm] [Info] Transformation: UUID-9691a6b8-0903-1ad6-56c4-35d9f3e57caf.html -> UUID-9691a6b8-0903-1ad6-56c4-35d9f3e57caf.html [5ecfed8f7c891.page.xsl]
+[28/May/2020 18:57:54 Europe/Stockholm] [Info] Transformation: UUID-2c624170-d4fe-100c-38a4-a7a30265f8f4.html -> UUID-2c624170-d4fe-100c-38a4-a7a30265f8f4.html [5ecfed8f7c891.page.xsl]
+[28/May/2020 18:57:54 Europe/Stockholm] [Info] Transformation: UUID-dd263021-b539-3601-db68-accba4f942b2.html -> UUID-dd263021-b539-3601-db68-accba4f942b2.html [5ecfed8f7c891.page.xsl]
+[28/May/2020 18:57:54 Europe/Stockholm] [Info] Transformation: UUID-cb60f709-cc6c-188f-7661-7b51bd19f221.html -> UUID-cb60f709-cc6c-188f-7661-7b51bd19f221.html [5ecfed8f7c891.page.xsl]
+[28/May/2020 18:57:54 Europe/Stockholm] [Info] Transformation: index-en.html -> index-en.html [5ecfed8f7c891.page.xsl]
+[28/May/2020 18:57:54 Europe/Stockholm] [Info] Generating index page.
+[28/May/2020 18:57:54 Europe/Stockholm] [Info] Transformation: index.manifest -> index.html [5ecfed8f7c891.index.xsl]
+[28/May/2020 18:57:54 Europe/Stockholm] [Info] # Took 8.574662 seconds to render.
